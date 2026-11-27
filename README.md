@@ -3,7 +3,7 @@
 # 🏍️ Dual ECU K-Line Telemetry & Smart Digital Gauge
 
 ระบบมาตรวัดดิจิทัลและตัวอ่านค่ากล่อง ECU รถจักรยานยนต์แบบไร้สาย (Dual-ECU K-Line Reader & ESP32-S3 LVGL Display) รองรับทั้งกล่อง **Honda (Keihin K-Line)** และ **Yamaha (K-Line)** สื่อสารความเร็วสูงผ่านโปรโตคอล **ESP-NOW (60 Hz)**
-
+อุปกรณ์ที่ใช้ 1 บอร์ดjc4827w543 https://s.shopee.co.th/AKcTZOyBln
 # Sport Dashboard — Honda / Yamaha K-Line ECU Gauge
 
 มิเตอร์สปอร์ตสำหรับมอเตอร์ไซค์ อ่านข้อมูลสดจาก ECU ผ่านสาย **K-Line** (Honda Keihin / Yamaha) แล้วแสดงผลบนจอสัมผัส 4.3" พร้อมไฟเตือนรอบ (Shift Light) เสียงเตือน เลขไมล์/ทริป แผนที่ AFR แบบเรียนรู้เอง และอ่าน/ลบรหัสข้อผิดพลาด (DTC)
