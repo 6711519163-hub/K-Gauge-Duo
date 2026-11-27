@@ -10,7 +10,7 @@
   3. บอร์ดเเปลงสัญญาณkline มีทั้งเเบบมีวงจรลดเเรงดันกับไม่มีวงจรลดเเรงดัน 3.1 Https://s.shopee.co.th/BVhTUFmgG 3.2 Https://s.shopee.co.th/5VXDpPXy9r
   4. โมดูลstepdown สำหรับเลี้ยงวงจร kilneที่ไม่มีวงจรลดเเรงดัน 5v และสำหรับวงจรอ่านตำเเหน่งเกียร์ 3.3v   Https://s.shopee.co.th/1CHHg3te2
   5. ปลั๊กkline ฮอนด้า Https://s.shopee.co.th/6VPl1qRriK
-ุ  6. เซ็นเซอร์วัดความเร็วเเบบเเทนที่สายไมล์เดิม ใช้ไฟเลี้ยง5v Https://s.shopee.co.th/7fbiQJ17Ac
+  6. เซ็นเซอร์วัดความเร็วเเบบเเทนที่สายไมล์เดิม ใช้ไฟเลี้ยง5v Https://s.shopee.co.th/7fbiQJ17Ac
   7. วงจรเเยกเเรงดันสำหรับอ่านตำเเหน่งเกียร์ ตัวนี้น่าจะเเทนกันได้ เพราะในโปรเจคเเต่เป็นเเบบเเยกเเรงดันเหมือนกัน Https://s.shopee.co.th/Lp7h1SNWi
   8. พัดลมระบายความร้อนเนื่องจากesp32s3miniค่อนข้างร้อนง่าย จึงติดพัดลมและซิงค์ระบายความร้อน พัดลม5v Https://s.shopee.co.th/70M1daqj5a ซิงค์7x7x3 Https://s.shopee.co.th/30pssJv4AR
   9. เเบตเตอรรี่สำหรับจอesp32 3.7v 10000mah Https://s.shopee.co.th/7VIIEkNadk
