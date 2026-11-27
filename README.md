@@ -7,25 +7,25 @@
 อุปกรณ์ที่ใช้ หลักมี 1-5  6 ขี้นไปเป็นอุปกรณ์เสริม เพื่อความสวยงามเเละการอ่านค่านอกเหนือจากที่มีในกล่อง ecu เช่นความเร็วรถ ตำเเหน่งเกียร์
   1. บอร์ดjc4827w543 https://s.shopee.co.th/AKcTZOyBln
   2. บอร์ดesp32 จะเลือกเป็นมินิหรือปกติก็ได้เเนะนำ esp32s3mini 2.1 Https://s.shopee.co.th/40iQ2AjbwQ  2.2 Https://s.shopee.co.th/7fbiP5AmKO
-  3 บอร์ดเเปลงสัญญาณkline มีทั้งเเบบมีวงจรลดเเรงดันกับไม่มีวงจรลดเเรงดัน 3.1 Https://s.shopee.co.th/BVhTUFmgG 3.2 Https://s.shopee.co.th/5VXDpPXy9r
-  4 โมดูลstepdown สำหรับเลี้ยงวงจร kilneที่ไม่มีวงจรลดเเรงดัน 5v และสำหรับวงจรอ่านตำเเหน่งเกียร์ 3.3v   Https://s.shopee.co.th/1CHHg3te2
-  5 ปลั๊กkline ฮอนด้า Https://s.shopee.co.th/6VPl1qRriK
-ุ  6 เซ็นเซอร์วัดความเร็วเเบบเเทนที่สายไมล์เดิม ใช้ไฟเลี้ยง5v Https://s.shopee.co.th/7fbiQJ17Ac
-  7 วงจรเเยกเเรงดันสำหรับอ่านตำเเหน่งเกียร์ ตัวนี้น่าจะเเทนกันได้ เพราะในโปรเจคเเต่เป็นเเบบเเยกเเรงดันเหมือนกัน Https://s.shopee.co.th/Lp7h1SNWi
-  8 พัดลมระบายความร้อนเนื่องจากesp32s3miniค่อนข้างร้อนง่าย จึงติดพัดลมและซิงค์ระบายความร้อน พัดลม5v Https://s.shopee.co.th/70M1daqj5a ซิงค์7x7x3 Https://s.shopee.co.th/30pssJv4AR
-  9 เเบตเตอรรี่สำหรับจอesp32 3.7v 10000mah Https://s.shopee.co.th/7VIIEkNadk
-  10 วงจรbmsสำหรับเเบต3.7v 1s Https://s.shopee.co.th/qlOIdjGVA
-  11 ปลั๊กสำหรับเชื่อมต่อ หน้าจอ jst 1.25 2p/4p  Https://s.shopee.co.th/2qWSgSon1E
-  12 หลอดไฟws2812b Https://s.shopee.co.th/AKcTcQ5Q6k
-  13 วงจรชาร์จเเบต 3.7v Https://s.shopee.co.th/6q2bSAfWYs
-  14 ลำโพง Https://s.shopee.co.th/30pstB8mms
-  15 usb c เเบบ4 pin Https://s.shopee.co.th/9fMmpTr3xm
-  16 สวิทซ์กดติดปล่อยดับ16mm Https://s.shopee.co.th/1qdvVKlGwL
-  17 น็อตยึด 3d Https://s.shopee.co.th/70M1ew5ayp
-  18 น็อตยึด หน้าจอesp32 Https://s.shopee.co.th/8fUFe65YdQ
-  19 วัดโวลท์ Https://s.shopee.co.th/40iQ5cUaoh
-  20 ปลั๊ก db9 20.1 Https://s.shopee.co.th/6fjBGZwCwd 20.2Https://s.shopee.co.th/6VPl4KJ0J1
-  21 usbc ตัวผู้4pin Https://s.shopee.co.th/4B1qID9YZy
+  3. บอร์ดเเปลงสัญญาณkline มีทั้งเเบบมีวงจรลดเเรงดันกับไม่มีวงจรลดเเรงดัน 3.1 Https://s.shopee.co.th/BVhTUFmgG 3.2 Https://s.shopee.co.th/5VXDpPXy9r
+  4. โมดูลstepdown สำหรับเลี้ยงวงจร kilneที่ไม่มีวงจรลดเเรงดัน 5v และสำหรับวงจรอ่านตำเเหน่งเกียร์ 3.3v   Https://s.shopee.co.th/1CHHg3te2
+  5. ปลั๊กkline ฮอนด้า Https://s.shopee.co.th/6VPl1qRriK
+ุ  6. เซ็นเซอร์วัดความเร็วเเบบเเทนที่สายไมล์เดิม ใช้ไฟเลี้ยง5v Https://s.shopee.co.th/7fbiQJ17Ac
+  7. วงจรเเยกเเรงดันสำหรับอ่านตำเเหน่งเกียร์ ตัวนี้น่าจะเเทนกันได้ เพราะในโปรเจคเเต่เป็นเเบบเเยกเเรงดันเหมือนกัน Https://s.shopee.co.th/Lp7h1SNWi
+  8. พัดลมระบายความร้อนเนื่องจากesp32s3miniค่อนข้างร้อนง่าย จึงติดพัดลมและซิงค์ระบายความร้อน พัดลม5v Https://s.shopee.co.th/70M1daqj5a ซิงค์7x7x3 Https://s.shopee.co.th/30pssJv4AR
+  9. เเบตเตอรรี่สำหรับจอesp32 3.7v 10000mah Https://s.shopee.co.th/7VIIEkNadk
+  10. วงจรbmsสำหรับเเบต3.7v 1s Https://s.shopee.co.th/qlOIdjGVA
+  11. ปลั๊กสำหรับเชื่อมต่อ หน้าจอ jst 1.25 2p/4p  Https://s.shopee.co.th/2qWSgSon1E
+  12. หลอดไฟws2812b Https://s.shopee.co.th/AKcTcQ5Q6k
+  13. วงจรชาร์จเเบต 3.7v Https://s.shopee.co.th/6q2bSAfWYs
+  14. ลำโพง Https://s.shopee.co.th/30pstB8mms
+  15. usb c เเบบ4 pin Https://s.shopee.co.th/9fMmpTr3xm
+  16. สวิทซ์กดติดปล่อยดับ16mm Https://s.shopee.co.th/1qdvVKlGwL
+  17. น็อตยึด 3d Https://s.shopee.co.th/70M1ew5ayp
+  18. น็อตยึด หน้าจอesp32 Https://s.shopee.co.th/8fUFe65YdQ
+  19. วัดโวลท์ Https://s.shopee.co.th/40iQ5cUaoh
+  20. ปลั๊ก db9 20.1 Https://s.shopee.co.th/6fjBGZwCwd 20.2Https://s.shopee.co.th/6VPl4KJ0J1
+  21. usbc ตัวผู้4pin Https://s.shopee.co.th/4B1qID9YZy
 
 
 
